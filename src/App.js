@@ -98,7 +98,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div className="Container">
+        <div className="user-form-container">
           <h3>Shorturl</h3>
           <img src={logo} className="App-logo" alt="logo" />
           <Form className="user-form" onSubmit={handleSubmit} noValidate>
