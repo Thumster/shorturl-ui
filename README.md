@@ -1,6 +1,6 @@
 
 # Shorturl
-###### A simple URL shortener to generate simplified URLs that are easier to disseminate. 
+#### A simple URL shortener to generate simplified URLs that are easier to disseminate. 
 [Try it out](https://thumster.github.io/shorturl-ui)
 
 ![Alt Text](https://i.imgur.com/sqvU1t0.gif)
@@ -15,20 +15,20 @@
 1. Heroku
 2. GitHub Pages
 
-### Features
-##### URL Validation
+## Features
+#### URL Validation
 ----
 Shorturl provides a URL validation feature that ensures the URL entered meets the standard requirements of a URL. The validation is applied on both the UI and Server. The URL will need to meet validation requirements before attempting to generate a Shorturl.
 
 ![Alt Text](https://imgur.com/RCYjr9n.gif)
 
-##### URL Shortening
+#### URL Shortening
 ----
 Once you have enetered a valid URL, click on 'Generate Shorturl' to create a shortened URL.
 
 ![Alt Text](https://imgur.com/Wz6JPae.gif)
 
-##### Copy to Clipboard
+#### Copy to Clipboard
 ----
 Click on the green alert to copy the generated shortened URL to your clipboard.
 
