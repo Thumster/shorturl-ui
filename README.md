@@ -3,6 +3,10 @@
 #### A simple URL shortener to generate simplified URLs that are easier to disseminate. 
 [Try it out](https://thumster.github.io/shorturl-ui)
 
+UI Repository: [shorturl-ui](https://github.com/Thumster/shorturl-ui)
+
+REST Service Repository: [shorturl-rest-service](https://github.com/Thumster/shorturl-rest-service)
+
 ![Alt Text](https://i.imgur.com/sqvU1t0.gif)
 
 ### Tech Stacks used
