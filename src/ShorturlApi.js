@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const api_url = "http://shorturlservice-env.eba-umwheeti.ap-southeast-1.elasticbeanstalk.com";
+const api_url = "https://powerful-bayou-39266.herokuapp.com";
 
 const methods = {
     create: "/create",
